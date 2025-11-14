@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 
 namespace WorldModel;
-
+// This also bidge between C# and SQL
 public partial class Comp584labContext : IdentityDbContext<WorldModelUser>
 {
     public Comp584labContext()
