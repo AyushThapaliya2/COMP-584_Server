@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using WorldModel;
 
 #nullable disable
-
+// This also bidge between C# and SQL
 namespace WorldModel.Migrations
 {
     [DbContext(typeof(Comp584labContext))]
