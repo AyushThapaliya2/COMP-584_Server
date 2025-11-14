@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP-584_Server", "COMP-584-Lab-Server\COMP-584-Lab-Server.csproj", "{43A8B96B-9A7A-41BF-BFA9-5BF33FF58D71}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP_584_Server", "COMP_584_Server\COMP_584_Server.csproj", "{43A8B96B-9A7A-41BF-BFA9-5BF33FF58D71}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldModel", "WorldModel\WorldModel.csproj", "{25218012-E015-4D15-B7C4-2803DFCB93E2}"
 EndProject
