@@ -1,4 +1,6 @@
 ﻿namespace COMP_584_Lab_Server.Data
+
+//This is the 584 CSV class getters and setters
 {
     public class Comp584csv
     {

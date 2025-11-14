@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.EntityFrameworkCore;
 
 namespace WorldModel;
-
+// This is the Country class bridge between sql and C#
 [Table("Country")]
 public partial class Country
 {

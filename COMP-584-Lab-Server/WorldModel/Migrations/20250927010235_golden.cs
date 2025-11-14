@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
-
+//Migrations
 namespace WorldModel.Migrations
 {
     /// <inheritdoc />

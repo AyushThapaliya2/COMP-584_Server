@@ -1,5 +1,6 @@
 namespace COMP_584_Lab_Server
 {
+    //WeatherForcast getter and setters
     public class WeatherForecast
     {
         public DateOnly Date { get; set; }

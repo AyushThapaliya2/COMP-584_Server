@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.EntityFrameworkCore;
 
 namespace WorldModel;
-
+//City class
 [Table("City")]
 public partial class City
 {

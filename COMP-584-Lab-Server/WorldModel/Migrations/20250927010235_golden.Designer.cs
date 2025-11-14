@@ -8,6 +8,8 @@ using WorldModel;
 
 #nullable disable
 
+
+//Migrations
 namespace WorldModel.Migrations
 {
     [DbContext(typeof(Comp584TContext))]
